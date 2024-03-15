@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: d163af051eb637c4b9d17bc2b788a214
+labels:
+- Architecture
+- Pattern
+- Tile
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 13234
+  packageName: Architecture textures pack
+  packageVersion: 1.0
+  assetPath: Assets/Architecture textures pack/Tiling marble/Tiling marble Mat.mat
+  uploadId: 110

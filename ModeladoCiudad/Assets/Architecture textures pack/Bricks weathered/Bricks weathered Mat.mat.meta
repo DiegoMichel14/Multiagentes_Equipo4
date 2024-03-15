@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 80ccfdd2ce22dba499861932b214c731
+labels:
+- Architecture
+- Bricks
+- Industrial
+- Pattern
+- Tile
+- Wall
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 13234
+  packageName: Architecture textures pack
+  packageVersion: 1.0
+  assetPath: Assets/Architecture textures pack/Bricks weathered/Bricks weathered
+    Mat.mat
+  uploadId: 110

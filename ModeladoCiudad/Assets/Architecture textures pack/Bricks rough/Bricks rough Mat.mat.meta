@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 6fa8352272ded0f4cb7281cc32fc938f
+labels:
+- Architecture
+- Bricks
+- Industrial
+- Pattern
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 13234
+  packageName: Architecture textures pack
+  packageVersion: 1.0
+  assetPath: Assets/Architecture textures pack/Bricks rough/Bricks rough Mat.mat
+  uploadId: 110

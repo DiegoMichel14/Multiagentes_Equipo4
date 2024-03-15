@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d4550594ec030044b960a5a62277f37c
+labels:
+- Architecture
+- Pattern
+- Tile
+- Wall
+- Bricks
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 13234
+  packageName: Architecture textures pack
+  packageVersion: 1.0
+  assetPath: Assets/Architecture textures pack/Bricks grey/Bricks grey Mat.mat
+  uploadId: 110

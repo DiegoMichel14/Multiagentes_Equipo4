@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 3e601f34396a36e4781b325b8fce4158
+labels:
+- Architecture
+- Pattern
+- Tile
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 13234
+  packageName: Architecture textures pack
+  packageVersion: 1.0
+  assetPath: Assets/Architecture textures pack/Tiling green/Tiling green Mat.mat
+  uploadId: 110

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 280df60341dff6a429f3a40241ec4c26
+labels:
+- Architecture
+- Pattern
+- Tile
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 13234
+  packageName: Architecture textures pack
+  packageVersion: 1.0
+  assetPath: Assets/Architecture textures pack/Tiling concave/Tiling concave Mat.mat
+  uploadId: 110

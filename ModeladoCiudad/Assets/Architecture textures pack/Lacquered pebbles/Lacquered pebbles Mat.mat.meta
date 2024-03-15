@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: f1e67abef2e1c924e9484d56c6fbfebc
+labels:
+- Decoration
+- Marble
+- Nature
+- Pattern
+- Stone
+- Polished
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 13234
+  packageName: Architecture textures pack
+  packageVersion: 1.0
+  assetPath: Assets/Architecture textures pack/Lacquered pebbles/Lacquered pebbles
+    Mat.mat
+  uploadId: 110
