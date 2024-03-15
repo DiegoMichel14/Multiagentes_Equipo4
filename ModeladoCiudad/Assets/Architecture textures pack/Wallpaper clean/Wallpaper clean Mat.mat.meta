@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 73ff9eb71edc3ab4e97d46feea8ab11c
+labels:
+- Architecture
+- Pattern
+- Wall
+- Plaster
+- Wallpaper
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 13234
+  packageName: Architecture textures pack
+  packageVersion: 1.0
+  assetPath: Assets/Architecture textures pack/Wallpaper clean/Wallpaper clean Mat.mat
+  uploadId: 110

@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 2ef4d1414ce51664991f9f8da0c69f0b
+labels:
+- Architecture
+- Pattern
+- Wood
+- Laminated
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 13234
+  packageName: Architecture textures pack
+  packageVersion: 1.0
+  assetPath: Assets/Architecture textures pack/Laminated wood/Laminated wood Mat.mat
+  uploadId: 110

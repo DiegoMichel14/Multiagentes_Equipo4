@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 124789c958827be4cad724112dbb9937
+labels:
+- Architecture
+- Industrial
+- Pattern
+- Roof
+- Tile
+- Moss
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 13234
+  packageName: Architecture textures pack
+  packageVersion: 1.0
+  assetPath: Assets/Architecture textures pack/Roof tiles weathered/Roof tiles weathered
+    Mat.mat
+  uploadId: 110

@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: eb4aaffc54b6c6f4facb62d9bd099030
+labels:
+- Architecture
+- Pattern
+- Ceiling
+- Office
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 13234
+  packageName: Architecture textures pack
+  packageVersion: 1.0
+  assetPath: Assets/Architecture textures pack/Ceiling/Ceiling Mat.mat
+  uploadId: 110

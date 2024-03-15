@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 978d1237aecb4bb41a8976f771e2e526
+labels:
+- Architecture
+- Pattern
+- Tile
+- Wood
+- Floor
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 13234
+  packageName: Architecture textures pack
+  packageVersion: 1.0
+  assetPath: Assets/Architecture textures pack/Wooden tile/Wooden tile Mat.mat
+  uploadId: 110

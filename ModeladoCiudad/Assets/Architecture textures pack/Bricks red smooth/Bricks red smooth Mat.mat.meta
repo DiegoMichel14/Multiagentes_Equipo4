@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 1a848aedc7780574fbf79d59dd5d42b3
+labels:
+- Architecture
+- Bricks
+- Industrial
+- Pattern
+- Tile
+- Wall
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 13234
+  packageName: Architecture textures pack
+  packageVersion: 1.0
+  assetPath: Assets/Architecture textures pack/Bricks red smooth/Bricks red smooth
+    Mat.mat
+  uploadId: 110
